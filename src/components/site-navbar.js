@@ -15,7 +15,7 @@ class SiteNavbar extends HTMLElement {
                 <div class="container-fluid">
                     <a class="navbar-brand" href="/">
                         <img src="/images/hikelogo.png" height="36">
-                        Hoda Hikes
+                        Adrienne Hikes
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
                         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
